@@ -1,0 +1,1 @@
+<?php /* Slence is gold */
